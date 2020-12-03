@@ -1,0 +1,10 @@
+C:\Users\marks\Desktop\EPAM_tasks\3\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\marks\Desktop\EPAM_tasks\3\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\marks\Desktop\EPAM_tasks\3\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\marks\Desktop\EPAM_tasks\3\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
+C:\Users\marks\Desktop\EPAM_tasks\3\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\marks\Desktop\EPAM_tasks\3\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\marks\Desktop\EPAM_tasks\3\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\marks\Desktop\EPAM_tasks\3\ConsoleApp2\ConsoleApp2\bin\Debug\ClassLibrary1.dll
+C:\Users\marks\Desktop\EPAM_tasks\3\ConsoleApp2\ConsoleApp2\bin\Debug\ClassLibrary1.pdb
+C:\Users\marks\Desktop\EPAM_tasks\3\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CopyComplete
