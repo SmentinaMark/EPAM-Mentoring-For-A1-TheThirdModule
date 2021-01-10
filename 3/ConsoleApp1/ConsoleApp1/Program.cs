@@ -6,20 +6,25 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            string str="";
+            string str = "";
             while (str != "Exit")
             {
                 try
                 {
                     Console.Write("Введите строку(Для выхода Exit): ");
                     str = Console.ReadLine();
-                    if(str =="Exit")
+
+                    if (str == "Exit")
                     {
                         break;
                     }
                     Console.WriteLine(FirstCharacter.FirsrCharacterMethod(str));
                 }
                 catch(IndexOutOfRangeException ex)
+                {
+                    Console.WriteLine(ex.Message);
+                }
+                catch(Exception ex)
                 {
                     Console.WriteLine(ex.Message);
                 }
