@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1xu6hmPRWEu/WOAyT8za3fljMejkVi7SaUZ9QtPXnWqZC9oauPWvveKFdSC7Fi9bJcRbAvfMIdx7x3uKfC+11A==",
+  "dgSpecHash": "NJGtCfF0gRtPITfTxFCeOCgqhg4pVC49RLUr+5FKhUkmmNvCAdKkP3nSk/7M8Wa1K1k44piMFyY9innfu/L8Pw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\marks\\Desktop\\На всякий случай\\3\\ClassLibrary1\\ClassLibrary1\\ClassLibrary1.csproj",
+  "projectFilePath": "C:\\Users\\marks\\Desktop\\EPAM MENTORING MODULES\\EPAM-Mentoring-For-A1-TheThirdModule\\3\\ClassLibrary1\\ClassLibrary1\\ClassLibrary1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marks\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\marks\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
